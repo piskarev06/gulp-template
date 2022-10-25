@@ -1,6 +1,5 @@
-#  Mozi
+#  Gulp template
 
-### Multipage responsive layout using: Gulp builder, SASS and BEM methodology
+### A simple template to quickly get started with layout
 
-## Published at:
-### https://piskarev06.github.io/Mozi/
+
